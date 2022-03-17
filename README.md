@@ -1,2 +1,0 @@
-# simplyGame
-This is test
