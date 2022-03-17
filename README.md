@@ -1,1 +1,2 @@
 # simplyGame
+This is test
